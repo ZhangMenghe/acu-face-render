@@ -49,3 +49,4 @@ local.properties
 ehthumbs.db
 Thumbs.db
 */.externalNativeBuild
+python_scripts/*

@@ -7,7 +7,7 @@ class PointRenderer {
 public:
     PointRenderer(glm::vec4 color, bool wibo = false);
     ~PointRenderer() = default;
-    const float point_size = 10.0f;
+    const float point_size = 5.0f;
     void Draw(const float * pointcloud, int point_num, GLenum mode);
     void Draw(const float * points, const unsigned short* indices, int point_num, int indice_num, GLenum mode);
 

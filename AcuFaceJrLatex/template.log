@@ -1,0 +1,516 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.7.21)  22 JUL 2021 16:13
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/eevee/Github/AcuFaceJrLatex/template.tex
+(/home/eevee/Github/AcuFaceJrLatex/template.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+
+LaTeX Warning: File `example.eps' already exists on the system.
+               Not generating it from this source.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)) (/home/eevee/Github/AcuFaceJrLatex/svjour3.cls
+Document Class: svjour3 2007/05/08 v3.2 
+LaTeX document class for Springer journals
+(/usr/share/texlive/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+Class Springer-SVJour3 Info: extra/valid Springer sub-package (-> *.clo) 
+(Springer-SVJour3)           not found in option list of \documentclass
+(Springer-SVJour3)           - autoactivating "global" style.
+ (/home/eevee/Github/AcuFaceJrLatex/svglov3.clo
+File: svglov3.clo 2009/12/18 v3.2 style option for standardised journals
+
+SVJour Class option: svglov3.clo for standardised journals
+)
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 148.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 149.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 150.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 151.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 152.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 153.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 154.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 155.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 156.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 157.
+\logodepth=\dimen103
+\headerboxheight=\dimen104
+\betweenumberspace=\dimen105
+\aftertext=\dimen106
+\headlineindent=\dimen107
+\c@inst=\count79
+\c@auth=\count80
+\instindent=\dimen108
+\authrun=\box26
+\authorrunning=\toks14
+\titrun=\box27
+\titlerunning=\toks15
+\combirun=\box28
+\c@lastpage=\count81
+\rubricwidth=\dimen109
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\spthmsep=\dimen110
+\c@theorem=\count87
+\c@case=\count88
+\c@conjecture=\count89
+\c@corollary=\count90
+\c@definition=\count91
+\c@example=\count92
+\c@exercise=\count93
+\c@lemma=\count94
+\c@note=\count95
+\c@problem=\count96
+\c@property=\count97
+\c@proposition=\count98
+\c@question=\count99
+\c@solution=\count100
+\c@remark=\count101
+\c@figure=\count102
+\c@table=\count103
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\figcapgap=\dimen111
+\tabcapgap=\dimen112
+\figgap=\dimen113
+\bibindent=\dimen114
+\@tempcntc=\count104
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen117
+\captionmargin@=\dimen118
+\captionwidth=\dimen119
+\caption@tempdima=\dimen120
+\caption@indent=\dimen121
+\caption@parindent=\dimen122
+\caption@hangindent=\dimen123
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\captionstyle \ifx \@captype \fig@type \vskip \figcapgap \fi \setbox \@tempboxa \hbox {{\floatlegendstyle #1\floatcounterend }\capstrut #2}\ifdim \wd \@tempboxa >\hsize {\floatlegendstyle #1\floatcounterend }\capstrut #2\par \else \hbox to\hsize {\leftlegendglue \unhbox \@tempboxa \hfil }\fi \ifx \@captype \fig@type \else \vskip \tabcapgap \fi .
+\c@ContinuedFloat=\count105
+)
+\c@subfigure=\count106
+\c@subtable=\count107
+) (/home/eevee/Github/AcuFaceJrLatex/template.aux)
+\openout1 = `template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 64.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen124
+\scratchbox=\box29
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen125
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+\big@size=\dimen126
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: Incompatible package detected (regarding \@caption).
+(caption)             \@caption = \long macro:#1[#2]#3->\par \addcontentsline {\csname ext@#1\endcsname }{#1}{\protect \numberline {\csname the#1\endcsname }{\ignorespaces #2}}\begingroup \@parboxrestore \@makecaption {\csname fnum@#1\endcsname }{\ignorespaces #3}\par \endgroup .
+
+
+Package caption Warning: Forced redefinition of \caption since the
+(caption)                unsupported(!) package option `compatibility=false'
+(caption)                was given.
+See the caption package documentation for explanation.
+
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+
+Package mathptmx Warning: There are no bold math fonts on input line 91.
+
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 91.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 91.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 91.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 91.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+LaTeX Font Info:    Calculating math sizes for size <8.5> on input line 91.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.29004> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.10005> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 91.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (7.524pt too wide) in paragraph at lines 103--108
+\OT1/ptm/m/n/10 However, acupunc-ture prac-tice re-lies on ex-pe-ri-enced acupunc-
+ []
+
+
+Overfull \hbox (10.7536pt too wide) in paragraph at lines 113--114
+\OT1/ptm/m/n/10 sce-nar-ios for our ap-pli-ca-tions are var-ied, for ex-am-ple, acupunc-
+ []
+
+
+Underfull \vbox (badness 2662) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Overfull \hbox (0.6936pt too wide) in paragraph at lines 119--121
+\OT1/ptm/m/n/10 As for the lo-cal-iza-tion meth-ods in prac-tice, God-son and War-
+ []
+
+
+Overfull \hbox (3.83418pt too wide) in paragraph at lines 124--125
+\OT1/ptm/m/n/10 align-ment, con-tain-ing LFPW[9], HE-LEN[10], AFW[11], and
+ []
+
+<figures/structure.pdf, id=9, 507.81718pt x 196.8153pt>
+File: figures/structure.pdf Graphic file (type pdf)
+<use figures/structure.pdf>
+Package pdftex.def Info: figures/structure.pdf  used on input line 130.
+(pdftex.def)             Requested size: 215.06628pt x 83.35258pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (5.39288pt too wide) in paragraph at lines 137--138
+[]\OT1/ptm/b/n/10 Acupoints lo-cal-iza-tion: \OT1/ptm/m/n/10 We firstly lo-cal-ize fa-cial anatom-
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+<figures/graph_main.png, id=10, 1291.82625pt x 766.865pt>
+File: figures/graph_main.png Graphic file (type png)
+<use figures/graph_main.png>
+Package pdftex.def Info: figures/graph_main.png  used on input line 145.
+(pdftex.def)             Requested size: 238.96417pt x 141.8561pt.
+
+Overfull \hbox (1.51329pt too wide) in paragraph at lines 141--149
+\OT1/ptm/m/n/10 We fit the whole pro-cess into Me-di-aPipes per-cep-tion pipeline
+ []
+
+
+Overfull \hbox (3.85332pt too wide) in paragraph at lines 141--149
+\OT1/ptm/m/n/10 im-ple-men-ta-tion de-tails in the next sec-tion. We show the graph
+ []
+
+[2 </home/eevee/Github/AcuFaceJrLatex/figures/structure.pdf
+
+pdfTeX warning: pdflatex (file /home/eevee/Github/AcuFaceJrLatex/figures/structure.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+Overfull \hbox (2.70381pt too wide) in paragraph at lines 160--161
+[]\OT1/ptm/b/n/10 Face land-marks gen-er-a-tion\OT1/ptm/m/n/10 : The pre-trained model pro-
+ []
+
+<figures/facemesh.pdf, id=40, 510.94888pt x 189.8292pt>
+File: figures/facemesh.pdf Graphic file (type pdf)
+<use figures/facemesh.pdf>
+Package pdftex.def Info: figures/facemesh.pdf  used on input line 165.
+(pdftex.def)             Requested size: 215.06628pt x 79.9015pt.
+
+Overfull \hbox (5.24303pt too wide) in paragraph at lines 162--168
+\OT1/ptm/m/n/10 ver-tices with se-man-tic mean-ing as the ref-er-ence points(Fig.3[]).
+ []
+
+<figures/hair.pdf, id=41, 522.03032pt x 218.7372pt>
+File: figures/hair.pdf Graphic file (type pdf)
+<use figures/hair.pdf>
+Package pdftex.def Info: figures/hair.pdf  used on input line 174.
+(pdftex.def)             Requested size: 215.06628pt x 90.11671pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+<figures/b-cun-2.jpg, id=42, 368.37625pt x 451.6875pt>
+File: figures/b-cun-2.jpg Graphic file (type jpg)
+<use figures/b-cun-2.jpg>
+Package pdftex.def Info: figures/b-cun-2.jpg  used on input line 185.
+(pdftex.def)             Requested size: 107.53314pt x 131.84753pt.
+<figures/b-cun.jpg, id=43, 368.37625pt x 451.6875pt>
+File: figures/b-cun.jpg Graphic file (type jpg)
+<use figures/b-cun.jpg>
+Package pdftex.def Info: figures/b-cun.jpg  used on input line 192.
+(pdftex.def)             Requested size: 107.53314pt x 131.84753pt.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+[3 </home/eevee/Github/AcuFaceJrLatex/figures/graph_main.png> </home/eevee/Github/AcuFaceJrLatex/figures/facemesh.pdf
+
+pdfTeX warning: pdflatex (file /home/eevee/Github/AcuFaceJrLatex/figures/facemesh.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+> </home/eevee/Github/AcuFaceJrLatex/figures/hair.pdf
+
+pdfTeX warning: pdflatex (file /home/eevee/Github/AcuFaceJrLatex/figures/hair.pdf): PDF inclusion: invalid other resource which is no dict (key 'ProcSets', type <array>); ignored.
+>]
+Overfull \hbox (2.23029pt too wide) in paragraph at lines 212--224
+ [] 
+ []
+
+<figures/st.png, id=83, 520.94624pt x 548.0475pt>
+File: figures/st.png Graphic file (type png)
+<use figures/st.png>
+Package pdftex.def Info: figures/st.png  used on input line 231.
+(pdftex.def)             Requested size: 191.17206pt x 201.11862pt.
+
+Overfull \hbox (9.24367pt too wide) in paragraph at lines 228--234
+\OT1/ptm/m/n/10 Sibai, be-longs to the ST(Foot's Yang Supreme Stom-ach Merid-
+ []
+
+<figures/res.png, id=84, 1394.20876pt x 862.22125pt>
+File: figures/res.png Graphic file (type png)
+<use figures/res.png>
+Package pdftex.def Info: figures/res.png  used on input line 244.
+(pdftex.def)             Requested size: 238.96417pt x 147.7729pt.
+<figures/press-acu.jpg, id=85, 1027.84pt x 770.88pt>
+File: figures/press-acu.jpg Graphic file (type jpg)
+<use figures/press-acu.jpg>
+Package pdftex.def Info: figures/press-acu.jpg  used on input line 249.
+(pdftex.def)             Requested size: 238.96417pt x 179.21599pt.
+
+Overfull \hbox (35.06357pt too wide) in paragraph at lines 241--252
+\OT1/ptm/m/n/10 would not find prob-lems point-ing or press-ing a tar-get acupoint(Fig.8[]).
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 261--261
+[]\OT1/ptm/m/n/8.5 One-time pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+[]\OT1/ptm/m/n/8.5 Multiple-times
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--263
+[]\OT1/ptm/m/n/8.5 Reference
+ []
+
+[4 </home/eevee/Github/AcuFaceJrLatex/figures/b-cun-2.jpg> </home/eevee/Github/AcuFaceJrLatex/figures/b-cun.jpg> </home/eevee/Github/AcuFaceJrLatex/figures/st.png> </home/eevee/Github/AcuFaceJrLatex/figures/res.png>]
+<figures/mean_pixel_err.png, id=94, 462.528pt x 346.896pt>
+File: figures/mean_pixel_err.png Graphic file (type png)
+<use figures/mean_pixel_err.png>
+Package pdftex.def Info: figures/mean_pixel_err.png  used on input line 275.
+(pdftex.def)             Requested size: 238.96417pt x 179.22244pt.
+
+Underfull \vbox (badness 1769) has occurred while \output is active []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (1.24377pt too wide) in paragraph at lines 324--325
+\OT1/ptm/m/n/10 only re-quire a small set of land-marks. Even though the model
+ []
+
+[5 </home/eevee/Github/AcuFaceJrLatex/figures/press-acu.jpg> </home/eevee/Github/AcuFaceJrLatex/figures/mean_pixel_err.png>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ (/home/eevee/Github/AcuFaceJrLatex/template.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+[]\OT1/ptm/m/n/8.5 A. Tkachenka, G. Karpiak, A. Vakunov, Y. Kar-tyn-nik,
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 57--59
+\OT1/ptm/m/n/8.5 A. Ablavatski, V. Bazarevsky, S. Pis-archyk, arXiv preprint
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 61--65
+\OT1/ptm/m/n/8.5 acu-points (2005).  https://musculoskeletalkey.com/ynsa-basic-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--70
+[]\OT1/ptm/m/n/8.5 Unknown.  Ynsa ba-sic points (2017).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+[]\OT1/ptm/m/n/8.5 Unknown.  At-las of acupunc-ture points (2007).
+ []
+
+) [6] (/home/eevee/Github/AcuFaceJrLatex/template.aux) ) 
+Here is how much of TeX's memory you used:
+ 3510 strings out of 492982
+ 57260 string characters out of 6134896
+ 114962 words of memory out of 5000000
+ 7016 multiletter control sequences out of 15000+600000
+ 34547 words of font info for 72 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,10n,40p,1326b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/eevee/Github/AcuFaceJrLatex/template.pdf (6 pages, 4651004 bytes).
+PDF statistics:
+ 123 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

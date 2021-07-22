@@ -1,0 +1,76 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI \discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI \discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{li2015acupoint}
+F.~Li, T.~He, Q.~Xu, L.T. Lin, H.~Li, Y.~Liu, G.X. Shi, C.Z. Liu, Pain Medicine
+  \textbf{16}(10), 1905 (2015)
+
+\bibitem{chen2017localization}
+Y.Z. Chen, C.~Maigre, M.C. Hu, K.c. Lan, in \emph{Proceedings of the 8th ACM on
+  Multimedia Systems Conference} (2017), pp. 239--241
+
+\bibitem{lan2018toward}
+K.C. Lan, G.S. Li, J.X. Zhang, in \emph{Proceedings of the 16th ACM Conference
+  on Embedded Networked Sensor Systems} (2018), pp. 384--385
+
+\bibitem{huber2016multiresolution}
+P.~Huber, G.~Hu, R.~Tena, P.~Mortazavian, P.~Koppen, W.J. Christmas, M.~Ratsch,
+  J.~Kittler, in \emph{Proceedings of the 11th International Joint Conference
+  on Computer Vision, Imaging and Computer Graphics Theory and Applications}
+  (2016)
+
+\bibitem{kartynnik2019real}
+Y.~Kartynnik, A.~Ablavatski, I.~Grishchenko, M.~Grundmann, arXiv preprint
+  arXiv:1907.06724  (2019)
+
+\bibitem{godson2019accuracy}
+D.R. Godson, J.L. Wardle, Journal of acupuncture and meridian studies
+  \textbf{12}(2), 52 (2019)
+
+\bibitem{bulat2017far}
+A.~Bulat, G.~Tzimiropoulos, in \emph{Proceedings of the IEEE International
+  Conference on Computer Vision} (2017), pp. 1021--1030
+
+\bibitem{sagonas2013semi}
+C.~Sagonas, G.~Tzimiropoulos, S.~Zafeiriou, M.~Pantic, in \emph{Proceedings of
+  the IEEE conference on computer vision and pattern recognition workshops}
+  (2013), pp. 896--903
+
+\bibitem{belhumeur2013localizing}
+P.N. Belhumeur, D.W. Jacobs, D.J. Kriegman, N.~Kumar, IEEE transactions on
+  pattern analysis and machine intelligence \textbf{35}(12), 2930 (2013)
+
+\bibitem{le2012interactive}
+V.~Le, J.~Brandt, Z.~Lin, L.~Bourdev, T.S. Huang, in \emph{European conference
+  on computer vision} (Springer, 2012), pp. 679--692
+
+\bibitem{zhu2012face}
+X.~Zhu, D.~Ramanan, in \emph{2012 IEEE conference on computer vision and
+  pattern recognition} (IEEE, 2012), pp. 2879--2886
+
+\bibitem{tkachenka2019real}
+A.~Tkachenka, G.~Karpiak, A.~Vakunov, Y.~Kartynnik, A.~Ablavatski,
+  V.~Bazarevsky, S.~Pisarchyk, arXiv preprint arXiv:1907.06740  (2019)
+
+\bibitem{jingxuebiaozhun}
+Unknown.
+\newblock National standard of the people's republic of china, acupoints
+  (2005).
+\newblock \url{https://musculoskeletalkey.com/ynsa-basic-points/}
+
+\bibitem{musculoskeletalkey}
+Unknown.
+\newblock Ynsa basic points (2017).
+\newblock \url{https://musculoskeletalkey.com/ynsa-basic-points/}
+
+\bibitem{stchannel}
+Unknown.
+\newblock Atlas of acupuncture points (2007).
+\newblock \url{www.AcupunctureProducts.com}
+
+\end{thebibliography}
