@@ -50,3 +50,13 @@ ehthumbs.db
 Thumbs.db
 */.externalNativeBuild
 python_scripts/*
+
+#latex
+*/bst/*
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.gz
